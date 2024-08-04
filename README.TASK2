@@ -1,0 +1,16 @@
+EXPLORATORY DATA ANALYSIS
+Univariate Analysis
+Univariate analysis is a data analysis technique that focuses on examining and describing the characteristics and distribution of a single variable in a dataset. In this project, I performed univariate analysis on various variables in the Titanic dataset, including:
+
+Histograms for age distribution.
+Bar plots for passenger class distribution.
+Pie chart for survival rate.
+Bivariate Analysis
+Bivariate analysis explores relationships between two variables in the dataset. In this project,I investigate relationships such as:
+
+Scatter plots for age vs. fare.
+Bar plots comparing the number of survivors by passenger class.
+Box plots comparing fares by passenger class.
+Correlation heatmap between age and fare
+Multivariate Analysis
+Multivariate analysis extends the exploration to multiple variables simultaneously.I used techniques like parallel coordinates plots to visualize relationships between multiple variables and survival.
